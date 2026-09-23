@@ -1,0 +1,14 @@
+Parameter,Selected Value
+FastEMA,50
+SlowEMA,300
+RSIPeriod,14
+RSIBuyLevel,46
+RSISellLevel,56
+ATRPeriod,14
+SL_ATR_Mult,1.75
+TP_ATR_Mult,2.50
+RiskPerTradePct,0.50
+MaxMonthlyLossPct,5.00
+MaxPositionsPerSymbol,1
+Optimization Criterion,Profit Factor
+Selection Note,Selected from in-sample optimization and used for untouched out-of-sample testing
