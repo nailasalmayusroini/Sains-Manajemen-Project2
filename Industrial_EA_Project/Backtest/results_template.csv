@@ -1,0 +1,11 @@
+Instrument,Category,Timeframe,Start,End,InitialBalance,FinalBalance,NetProfit,ReturnPct,MaxDDPct,ProfitFactor,Trades,WinningMonths,LosingMonths,Model,OptimizationSet,Notes
+EURUSD,Forex,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+GBPUSD,Forex,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+USDJPY,Forex,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+XAUUSD,Metal,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+XAGUSD,Metal,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+US500,Index,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+JP225,Index,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+BTCUSD,Crypto,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+ETHUSD,Crypto,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
+USOIL,Energy,H1,,,,10000,,,,,,,,,Every tick based on real ticks,,
